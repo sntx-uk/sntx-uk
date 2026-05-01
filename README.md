@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Its pronounced "Syntax"
+
 <!--
 **sntx-uk/sntx-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
